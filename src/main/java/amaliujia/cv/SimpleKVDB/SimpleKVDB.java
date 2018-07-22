@@ -23,7 +23,7 @@ public class SimpleKVDB {
     }
 
     public void put(byte[] key, byte[] val) {
-        return;
+        db.put(key, val);
     }
 
     public void delete(byte[] key) throws DBException {

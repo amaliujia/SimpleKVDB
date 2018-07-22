@@ -8,4 +8,6 @@ public class DBConstant {
 
     public static final Pattern DATA_FILE_PATTERN = Pattern.compile("([0-9]+)" + DBConstant.DATAFILE_NAME_SUFFIX + "c?");
 
+    public static final int version = 1;
+
 }
