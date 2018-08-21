@@ -14,3 +14,11 @@
 .idea/encodings.xml
 
 SimpleKVDB.iml
+
+*.class
+
+target/SimpleKVDB-0.01-SNAPSHOT.jar
+
+*.lst
+
+target/maven-archiver/pom.properties
